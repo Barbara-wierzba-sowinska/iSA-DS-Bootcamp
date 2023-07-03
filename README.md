@@ -1,6 +1,7 @@
 # JDSZR11-DatA_Team
 ## ML Project - How expensive is health? Analysis of insurance data and creating a model predicting insurance costs.
-Co-contributors: Natalia Skrzypczak, Krzysztof Łukjanowicz, Agnieszka Kołomyjec
+Co-contributors: Natalia Skrzypczak, Krzysztof Łukjanowicz, Agnieszka Kołomyjec   
+
 Conspect:
 - Aim - determining the price of health depending on the insured features (age, sex, BMI, qty of children,region and whether the person is smoking or not)
 - Data preparation,
