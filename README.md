@@ -1,8 +1,8 @@
 # JDSZR11-DatA_Team
 ## DL Project - Judge an album by it's cover.
 
-Co-contributors: Agnieszka Kołomyjec, Krzysztof Łukjanowicz, Natalia Skrzypczak
-I was responsible for building the resnet model and drawing conclusions based on it's performance.
+I was responsible for building the resnet model and drawing conclusions based on it's performance.   
+
 Conspect:
 - Aim: can a deep learning model be effective in recognizing a music genre (rap, electro) by an album cover?
 - Building a resnet model and applying transfer learning.
