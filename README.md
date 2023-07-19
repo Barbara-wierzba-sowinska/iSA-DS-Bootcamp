@@ -1,9 +1,13 @@
 # JDSZR11-DatA_Team
-## Project ML - Jak kosztowne jest zdrowie?
+## DL Project - Judge an album by it's cover.
 
+Co-contributors: Agnieszka Kołomyjec, Krzysztof Łukjanowicz, Natalia Skrzypczak
+I was responsible for building the resnet model and drawing conclusions based on it's performance.
 Conspect:
-- Cel ML: określane kosztów zdrowia na podstawie parametrów ubezpieczonego
-- Cel aplikacji: pomoc przy wyznaczaniu progu ubezpieczenia zdrowotnego
-- <a href="https://www.kaggle.com/datasets/mirichoi0218/insurance">Kaggle dataset</a>
+- Aim: can a deep learning model be effective in recognizing a music genre (rap, electro) by an album cover?
+- Building a resnet model and applying transfer learning.
+- Model's accuracy was ca. 70%.
+- Further development: extending the model's capability by additional music genres, better optimalization.
+- <a href="[https://www.kaggle.com/datasets/mirichoi0218/insurance](https://www.kaggle.com/datasets/anastasiapetrunia/album-covers-dataset)">Kaggle dataset</a>
 
 ![Logo for JDSZR11-DatA_Team project, with a bar plot representing each team member.](https://github.com/nataliaskrzypczak/JDSZR11-DatA_Team/blob/Project_ML/DatA_Team_logo.jpg "Logo")
