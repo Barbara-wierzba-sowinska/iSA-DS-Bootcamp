@@ -3,7 +3,8 @@
 Co-contributors: Natalia Skrzypczak, Krzysztof Łukjanowicz, Agnieszka Kołomyjec   
 
 
-- The most recent project: [ML project - how expensive is health](https://github.com/Barbara-wierzba-sowinska/iSA-DS-Bootcamp/tree/Project_ML)
+- [ML project - how expensive is health?](https://github.com/Barbara-wierzba-sowinska/iSA-DS-Bootcamp/tree/Project_ML)
+- [DL project - judge an album by it's cover](https://github.com/Barbara-wierzba-sowinska/iSA-DS-Bootcamp/tree/DL)
 - [Python project - do you want fries with that?](https://github.com/Barbara-wierzba-sowinska/iSA-DS-Bootcamp/tree/Project_Python-Uber_Eats)
 - [SQL/Tableau project - Happiness without Borders](https://github.com/Barbara-wierzba-sowinska/iSA-DS-Bootcamp/tree/Project_SQL-WHR)
 
